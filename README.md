@@ -10,7 +10,7 @@ Building web applications, backend systems, and AI-powered software.
 
 * 🎓 Computer Engineering Graduate
 * 💻 Full-Stack Developer
-* 🌏 Based in Korea
+* 🌏 Based in Egypt
 * 🤖 Interested in AI-powered software and developer tools
 * 🏗️ Currently learning Docker, CI/CD, Cloud Technologies, and System Design
 * 📚 Always building and improving projects

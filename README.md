@@ -1,6 +1,6 @@
 # Hi 👋 I'm Zeyad Badawy
 
-### Full-Stack Developer | Computer Engineering Graduate
+### Full-Stack Developer | Software Engineering Graduate
 
 Building web applications, backend systems, and AI-powered software.
 

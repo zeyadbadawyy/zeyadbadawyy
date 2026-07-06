@@ -1,8 +1,8 @@
 # Hi 👋 I'm Zeyad Badawy
 
-### Full-Stack Developer | Software Engineer
+### Full-Stack Developer • Software Engineer • AI Application Builder
 
-Building web applications, backend systems, and AI-powered software.
+Building modern web applications, backend systems, and AI-powered software.
 
 ---
 
@@ -10,10 +10,11 @@ Building web applications, backend systems, and AI-powered software.
 
 * 🎓 Computer Engineering Graduate
 * 💻 Full-Stack Developer
-* 🌏 Based in Egypt
-* 🤖 Interested in AI-powered software and developer tools
-* 🏗️ Currently learning Docker, CI/CD, Cloud Technologies, and System Design
-* 📚 Always building and improving projects
+* 🌍 Based in Egypt
+* 🤖 Passionate about AI-powered applications and developer tools
+* 🏗️ Interested in Software Engineering, Backend Development, Cloud Technologies, and System Design
+* 🚀 Focused on building real-world, production-ready applications
+* 📚 Continuously learning and improving through hands-on development
 
 ---
 
@@ -23,6 +24,7 @@ Building web applications, backend systems, and AI-powered software.
 
 * Java
 * JavaScript
+* Python
 * Go
 * C
 * C#
@@ -30,71 +32,130 @@ Building web applications, backend systems, and AI-powered software.
 ### Frontend
 
 * React
+* Vite
+* HTML5
+* CSS3
+* Axios
 
 ### Backend
 
+* FastAPI
 * Express.js
+* REST APIs
 
-### Database
+### Databases
 
 * MySQL
+* SQLite
+* SQLAlchemy ORM
 
-### Tools
+### AI & Automation
+
+* OpenRouter
+* GPT Models
+* Prompt Engineering
+* AI Workflow Design
+
+### Tools & Platforms
 
 * Git
 * GitHub
+* Docker
+* Railway
+* Vercel
+* Postman
+
+### Currently Exploring
+
+* CI/CD Pipelines
+* Cloud Architecture
+* Scalable System Design
 
 ---
 
 ## ⭐ Featured Projects
 
-### Promptica
+### 📚 StudyMate
 
-AI-powered Prompt Engineering Enhancement System designed to improve prompt quality, structure, and effectiveness.
+🔗 Live Demo: https://study-mate-inky.vercel.app/
 
-**Tech Stack**
+AI-powered study assistant that transforms documents into summaries, quizzes, flashcards, study guides, revision notes, exams, and AI-powered conversations.
+
+#### Highlights
+
+* Document Upload (PDF, DOCX, TXT)
+* AI Summaries
+* Flashcard Generation
+* Quiz Generation
+* Exam Generation
+* Study Guides
+* Revision Notes
+* Chat With Documents
+* Analytics Dashboard
+* PDF Export System
+* ZIP Study Package Export
+* Dark Mode
+* Full Deployment with Railway & Vercel
+
+#### Tech Stack
+
+* React
+* FastAPI
+* SQLite
+* SQLAlchemy
+* OpenRouter
+* Railway
+* Vercel
+
+---
+
+### 🤖 Promptica
+
+AI-powered prompt enhancement platform designed to improve prompt clarity, structure, context, and effectiveness for modern AI systems.
+
+#### Highlights
+
+* Prompt Analysis
+* Prompt Enhancement Engine
+* Structured AI Outputs
+* Prompt Optimization Workflows
+* Full-Stack Architecture
+* Database Integration
+* Modern Responsive UI
+* Prompt Engineering Focused
+
+#### Tech Stack
 
 * React
 * Express.js
 * MySQL
 * JavaScript
 
-### Little Lemon
+---
 
-Restaurant management platform developed during Meta's software development curriculum.
+## 🎯 Current Focus
 
-**Tech Stack**
-
-* React
-* JavaScript
-* REST APIs
+* Building full-stack AI applications
+* Backend engineering with FastAPI
+* Cloud deployment and scalable architectures
+* Software engineering best practices
 
 ---
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=zeyadbadawyy\&show_icons=true\&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=zeyadbadawyy&show_icons=true&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zeyadbadawyy\&layout=compact\&theme=tokyonight)
-
----
-
-## 🎯 Current Goals
-
-* Build production-ready backend systems
-* Learn Docker and containerization
-* Improve system design skills
-* Learn cloud deployment
-* Contribute to open source
-* Land a software engineering role
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zeyadbadawyy&layout=compact&theme=tokyonight)
 
 ---
 
 ## 📫 Contact
 
-GitHub: https://github.com/zeyadbadawyy
-Email: zeyadbadawyy@gmail.com
+📧 Email: zeyadbadawyy@gmail.com
+
+💻 GitHub: https://github.com/zeyadbadawyy
 
 ---
 
-⭐ Thanks for visiting my profile!
+### ⭐ Thanks for visiting my profile!

@@ -46,6 +46,7 @@ Building modern web applications, backend systems, and AI-powered software.
 ### Databases
 
 * MySQL
+* PostgreSQL
 * SQLite
 * SQLAlchemy ORM
 
@@ -53,6 +54,7 @@ Building modern web applications, backend systems, and AI-powered software.
 
 * OpenRouter
 * GPT Models
+* RAG
 * Prompt Engineering
 * AI Workflow Design
 
@@ -64,6 +66,7 @@ Building modern web applications, backend systems, and AI-powered software.
 * Railway
 * Vercel
 * Postman
+* LLM Integration
 
 ### Currently Exploring
 

@@ -56,9 +56,10 @@ Building modern web applications, backend systems, and AI-powered software.
 * GPT Models
 * RAG
 * Prompt Engineering
-* AI Workflow Design
+* AI Workflows
+* LLM Integration
 
-### Tools & Platforms
+### Tools & Deployment Platforms
 
 * Git
 * GitHub
@@ -66,7 +67,6 @@ Building modern web applications, backend systems, and AI-powered software.
 * Railway
 * Vercel
 * Postman
-* LLM Integration
 
 ### Currently Exploring
 

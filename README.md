@@ -132,9 +132,9 @@ AI-powered Prompt Engineering Enhancement System designed to improve prompt qual
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=zeyadbadawyy&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=zeyadbadawyy&show_icons=true&theme=tokyonight&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zeyadbadawyy&layout=compact&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zeyadbadawyy&layout=compact&theme=tokyonight&hide_border=true)
 
 ---
 
